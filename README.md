@@ -7,7 +7,7 @@ For 100 consecutive days, I'll write HTML and CSS snippets described in https://
 ## My Results  
     
 **Day 1:** [Codepen -  Day #1/100 DAYS CSS CHALLENGE](https://codepen.io/sh-sabbir/pen/QWQZOgO)  
-**Day 2:** [Codepen -  Day #2/100 DAYS CSS CHALLENGE](#)  
+**Day 2:** [Codepen -  Day #2/100 DAYS CSS CHALLENGE](https://codepen.io/sh-sabbir/pen/abazjMm)  
 **Day 3:** [Codepen -  Day #3/100 DAYS CSS CHALLENGE](#)  
 **Day 4:** [Codepen -  Day #4/100 DAYS CSS CHALLENGE](#)  
 **Day 5:** [Codepen -  Day #5/100 DAYS CSS CHALLENGE](#)  
